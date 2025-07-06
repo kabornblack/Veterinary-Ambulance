@@ -29,6 +29,7 @@ const NavigationHeader = () => {
             onClick={() => {
               navigate("/vets");
             }}
+            variant="outlined"
             color="white"
           >
             Vets
