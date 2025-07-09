@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'vet_ambulance.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'veterinary_ambulance',
+        'NAME': 'vet_ambulance',
         'USER': 'kabornblack',
         'PASSWORD': 'House25eclose',
         'HOST': 'localhost',
